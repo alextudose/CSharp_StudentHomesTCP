@@ -1,0 +1,5 @@
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Api\bin\Debug\StudentHome.Api.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Api\bin\Debug\StudentHome.Api.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Api\obj\Debug\StudentHome.Api.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Api\obj\Debug\StudentHome.Api.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Api\obj\Debug\StudentHome.Api.csprojResolveAssemblyReference.cache

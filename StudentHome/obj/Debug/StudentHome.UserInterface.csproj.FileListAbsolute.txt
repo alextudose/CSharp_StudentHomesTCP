@@ -1,0 +1,20 @@
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine\bin\Debug\StudentHome.exe.config
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine\bin\Debug\StudentHome.UserInteface.exe.config
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\bin\Debug\AppContext.xml
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\bin\Debug\XML Files\employees.xml
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\bin\Debug\XML Files\studentHomes.xml
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\bin\Debug\XML Files\students.xml
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\bin\Debug\StudentHome.UserInteface.exe.config
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\bin\Debug\StudentHome.UserInteface.exe
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\bin\Debug\StudentHome.UserInteface.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\bin\Debug\StudentHome.Core.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\bin\Debug\StudentHome.Domain.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\bin\Debug\StudentHome.Repository.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\bin\Debug\StudentHome.Service.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\bin\Debug\StudentHome.Core.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\bin\Debug\StudentHome.Domain.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\bin\Debug\StudentHome.Repository.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\bin\Debug\StudentHome.Service.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\obj\Debug\StudentHome.UserInterface.csprojResolveAssemblyReference.cache
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\obj\Debug\StudentHome.UserInteface.exe
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome\obj\Debug\StudentHome.UserInteface.pdb

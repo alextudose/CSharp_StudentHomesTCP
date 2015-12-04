@@ -1,0 +1,12 @@
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine\bin\Debug\Camine.exe.config
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine\bin\Debug\Camine.exe
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine\bin\Debug\Camine.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine\bin\Debug\Camine.Domain.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine\bin\Debug\Camine.Repository.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine\bin\Debug\Camine.Service.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine\bin\Debug\Camine.Domain.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine\bin\Debug\Camine.Repository.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine\bin\Debug\Camine.Service.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine\obj\Debug\Camine.UserInterface.csprojResolveAssemblyReference.cache
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine\obj\Debug\Camine.exe
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\Camine\Camine\obj\Debug\Camine.pdb

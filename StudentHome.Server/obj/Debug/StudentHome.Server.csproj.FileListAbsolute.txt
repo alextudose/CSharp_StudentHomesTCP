@@ -1,0 +1,11 @@
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Server\bin\Debug\Repository\XML Files\employees.xml
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Server\bin\Debug\Repository\XML Files\studentHomes.xml
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Server\bin\Debug\Repository\XML Files\students.xml
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Server\bin\Debug\StudentHome.Server.exe.config
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Server\bin\Debug\StudentHome.Server.exe
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Server\bin\Debug\StudentHome.Server.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Server\bin\Debug\StudentHome.Api.dll
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Server\bin\Debug\StudentHome.Api.pdb
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Server\obj\Debug\StudentHome.Server.csprojResolveAssemblyReference.cache
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Server\obj\Debug\StudentHome.Server.exe
+I:\Info\UBB Info Ro\An 2 Sem 1\MAP\C#\StudentHomes\StudentHome.Server\obj\Debug\StudentHome.Server.pdb

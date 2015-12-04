@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <component id="appUI" type="UserInterface" assembly="StudentHome.UserInteface">
+    <property name="appManager" ref="appManager"/>
+  </component>
+  <component id="appManager" type="AppManager" assembly="StudentHome.Service">
+    <property name="studentHomeRepository" ref="studentHomeRepository"/>
+    <property name="studentRepository" ref="studentRepository"/>
+    <property name="employeeRepository" ref="employeeRepository"/>
+    <property name ="studentHomeValidator" ref="studentHomeValidator"/>
+    <property name ="studentValidator" ref="studentValidator"/>
+    <property name ="employeeValidator" ref="employeeValidator"/>
+  </component>
+  <component id="studentHomeRepository" type="StudentHomeRepository" assembly ="StudentHome.Repository"/>
+  <component id="studentRepository" type="StudentRepository" assembly ="StudentHome.Repository"/>
+  <component id="employeeRepository" type="EmployeeRepository" assembly ="StudentHome.Repository"/>
+  <component id="studentHomeValidator" type="StudentHomeValidator" assembly ="StudentHome.Service"/>
+  <component id="studentValidator" type="StudentValidator" assembly ="StudentHome.Service"/>
+  <component id="employeeValidator" type="PersonValidator" assembly ="StudentHome.Service"/>
+</root>
